@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35441750-6c53-4f65-a8d4-4a673e2aac30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvlMs1Z1hfDHqJAGm9M3nM03HW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.15_WhatsYourName">
+    <configuration name="15_WhatsYourName" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_WhatsYourName.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="51_CheckSubset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51_CheckSubset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="52_CheckStrictSuperset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/52_CheckStrictSuperset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="53_Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/53_Arrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="59_ShapeAndReshape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHackerRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/59_ShapeAndReshape.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.15_WhatsYourName" />
+        <item itemvalue="Python.59_ShapeAndReshape" />
+        <item itemvalue="Python.53_Arrays" />
+        <item itemvalue="Python.52_CheckStrictSuperset" />
+        <item itemvalue="Python.51_CheckSubset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35441750-6c53-4f65-a8d4-4a673e2aac30" name="Default Changelist" comment="" />
+      <created>1581934403481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581934403481</updated>
+      <workItem from="1581934405508" duration="8502000" />
+      <workItem from="1581944543582" duration="151000" />
+      <workItem from="1581944699984" duration="2779000" />
+      <workItem from="1581949196406" duration="1720000" />
+      <workItem from="1581952072496" duration="5122000" />
+      <workItem from="1581962964875" duration="758000" />
+      <workItem from="1581985236280" duration="471000" />
+      <workItem from="1582025504026" duration="13459000" />
+      <workItem from="1582109453031" duration="3739000" />
+      <workItem from="1582223394391" duration="3140000" />
+      <workItem from="1582236196508" duration="406000" />
+      <workItem from="1582236615315" duration="5000" />
+      <workItem from="1582236835691" duration="1785000" />
+      <workItem from="1582242743732" duration="3011000" />
+      <workItem from="1582305161213" duration="3234000" />
+      <workItem from="1582326474767" duration="3760000" />
+      <workItem from="1582394000502" duration="5000" />
+      <workItem from="1582579285811" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2555" y="207" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582236434791">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2555" y="207" width="424" height="491" key="FileChooserDialogImpl/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582236434791" />
+    <state width="1874" height="271" key="GridCell.Tab.0.bottom" timestamp="1582579360715">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="204" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1582114072483" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582330251285" />
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582245754630" />
+    <state width="1874" height="271" key="GridCell.Tab.0.bottom/0.24.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582579360715" />
+    <state width="1874" height="271" key="GridCell.Tab.0.center" timestamp="1582579360715">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="204" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1582114072482" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582330251285" />
+    <state width="1874" height="334" key="GridCell.Tab.0.center/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582245754630" />
+    <state width="1874" height="271" key="GridCell.Tab.0.center/0.24.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582579360715" />
+    <state width="1874" height="271" key="GridCell.Tab.0.left" timestamp="1582579360715">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="204" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1582114072482" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582330251285" />
+    <state width="1874" height="334" key="GridCell.Tab.0.left/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582245754630" />
+    <state width="1874" height="271" key="GridCell.Tab.0.left/0.24.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582579360715" />
+    <state width="1874" height="271" key="GridCell.Tab.0.right" timestamp="1582579360715">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="204" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1582114072482" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582330251285" />
+    <state width="1874" height="334" key="GridCell.Tab.0.right/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582245754630" />
+    <state width="1874" height="271" key="GridCell.Tab.0.right/0.24.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582579360715" />
+    <state width="1874" height="334" key="GridCell.Tab.1.bottom" timestamp="1582245754630">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581962370875" />
+    <state width="1874" height="334" key="GridCell.Tab.1.bottom/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582245754630" />
+    <state width="1874" height="334" key="GridCell.Tab.1.center" timestamp="1582245754630">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581962370875" />
+    <state width="1874" height="334" key="GridCell.Tab.1.center/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582245754630" />
+    <state width="1874" height="334" key="GridCell.Tab.1.left" timestamp="1582245754630">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581962370875" />
+    <state width="1874" height="334" key="GridCell.Tab.1.left/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582245754630" />
+    <state width="1874" height="334" key="GridCell.Tab.1.right" timestamp="1582245754630">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581962370875" />
+    <state width="1874" height="334" key="GridCell.Tab.1.right/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582245754630" />
+    <state x="2266" y="78" width="1022" height="737" key="SettingsEditor" timestamp="1582579311471">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1582305198645" />
+    <state x="2266" y="78" width="1022" height="737" key="SettingsEditor/0.24.1920.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582236854382" />
+    <state x="2266" y="78" key="SettingsEditor/0.24.1920.1018/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582579311471" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581937329696">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581937329696" />
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1581934414121">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1581934414121" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1582308068319">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1582308068319" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonHackerRank$6_DesignerDoorMat__1_.coverage" NAME="6_DesignerDoorMat (1) Coverage Results" MODIFIED="1581944762620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$33_SetUnionOperation.coverage" NAME="33_SetUnionOperation Coverage Results" MODIFIED="1582046154144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$59_ShapeAndReshape.coverage" NAME="59_ShapeAndReshape Coverage Results" MODIFIED="1582329030237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$24_ItertoolsPermutations.coverage" NAME="24_ItertoolsPermutations Coverage Results" MODIFIED="1582031563685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$IntroductionToSets.coverage" NAME="IntroductionToSets Coverage Results" MODIFIED="1581985505363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$51_CheckSubset.coverage" NAME="51_CheckSubset Coverage Results" MODIFIED="1582306062726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$17_FindAString.coverage" NAME="17_FindAString Coverage Results" MODIFIED="1581952377090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$15_WhatsYourName.coverage" NAME="15_WhatsYourName Coverage Results" MODIFIED="1582579341297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$20_TextWrap.coverage" NAME="20_TextWrap Coverage Results" MODIFIED="1581959195287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$27_CollectionsNamedtuple.coverage" NAME="27_CollectionsNamedtuple Coverage Results" MODIFIED="1582027064469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$43_CompressTheString.coverage" NAME="43_CompressTheString Coverage Results" MODIFIED="1582238229878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$13_SwapCase.coverage" NAME="13_SwapCase Coverage Results" MODIFIED="1581949450577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$32_SetDiscardRemovePop.coverage" NAME="32_SetDiscardRemovePop Coverage Results" MODIFIED="1582045661213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$47_PowerModPower.coverage" NAME="47_PowerModPower Coverage Results" MODIFIED="1582244069554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$19_TextAlignment.coverage" NAME="19_TextAlignment Coverage Results" MODIFIED="1581963088824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$5_FindingThePercentage.coverage" NAME="5_FindingThePercentage Coverage Results" MODIFIED="1581939279230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$23_ItertoolsProduct.coverage" NAME="23_ItertoolsProduct Coverage Results" MODIFIED="1581961676974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$49_TriangleQuest.coverage" NAME="49_TriangleQuest Coverage Results" MODIFIED="1582244874500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$14_StringSplitAndJoin.coverage" NAME="14_StringSplitAndJoin Coverage Results" MODIFIED="1581949656489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$DesignerDoorMat.coverage" NAME="DesignerDoorMat Coverage Results" MODIFIED="1581939687499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$4_NestedList.coverage" NAME="4_NestedList Coverage Results" MODIFIED="1581959784927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$11_Lists.coverage" NAME="11_Lists Coverage Results" MODIFIED="1581946829121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$28_CollectionsOrderedDict.coverage" NAME="28_CollectionsOrderedDict Coverage Results" MODIFIED="1582028937308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$18_StringValidators.coverage" NAME="18_StringValidators Coverage Results" MODIFIED="1581952874740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$45_PythonEvaluation.coverage" NAME="45_PythonEvaluation Coverage Results" MODIFIED="1582243646337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$37_SetMutations.coverage" NAME="37_SetMutations Coverage Results" MODIFIED="1582048276737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$31_SetAdd.coverage" NAME="31_SetAdd Coverage Results" MODIFIED="1582044714055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$42_ItertoolsCombinationsWithReplacement.coverage" NAME="42_ItertoolsCombinationsWithReplacement Coverage Results" MODIFIED="1582224385136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$1_Zipped.coverage" NAME="1_Zipped Coverage Results" MODIFIED="1582237089488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$34_SetIntersectionOperation.coverage" NAME="34_SetIntersectionOperation Coverage Results" MODIFIED="1582046226090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$16_Mutations.coverage" NAME="16_Mutations Coverage Results" MODIFIED="1581950121898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$test.coverage" NAME="test Coverage Results" MODIFIED="1581934431082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$48_IntegersComeInAllSizes.coverage" NAME="48_IntegersComeInAllSizes Coverage Results" MODIFIED="1582244401388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$26_SymmetricDifference.coverage" NAME="26_SymmetricDifference Coverage Results" MODIFIED="1582030932743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$3_FindTheRunnerUpScore.coverage" NAME="3_FindTheRunnerUpScore Coverage Results" MODIFIED="1581936735740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$52_CheckStrictSuperset.coverage" NAME="52_CheckStrictSuperset Coverage Results" MODIFIED="1582306258163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$44_Input.coverage" NAME="44_Input Coverage Results" MODIFIED="1582243512690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$36_SetSymmetricDifferenceOperation.coverage" NAME="36_SetSymmetricDifferenceOperation Coverage Results" MODIFIED="1582046359691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$53_Arrays.coverage" NAME="53_Arrays Coverage Results" MODIFIED="1582328451562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$29_ItertoolsCombinations.coverage" NAME="29_ItertoolsCombinations Coverage Results" MODIFIED="1582048602440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$41_Exceptions.coverage" NAME="41_Exceptions Coverage Results" MODIFIED="1582223505986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$9_Capitalize.coverage" NAME="9_Capitalize Coverage Results" MODIFIED="1581943534484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$21_CollectionsCounter.coverage" NAME="21_CollectionsCounter Coverage Results" MODIFIED="1581960796068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$30_PolarCoordinates.coverage" NAME="30_PolarCoordinates Coverage Results" MODIFIED="1582044528993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$39_CollectionsDeque.coverage" NAME="39_CollectionsDeque Coverage Results" MODIFIED="1582111280638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$7_StringFormatting.coverage" NAME="7_StringFormatting Coverage Results" MODIFIED="1581942374567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$40_CalendarModule.coverage" NAME="40_CalendarModule Coverage Results" MODIFIED="1582113821315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$38_WordOrder.coverage" NAME="38_WordOrder Coverage Results" MODIFIED="1582110320398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$10_TheMinionGame.coverage" NAME="10_TheMinionGame Coverage Results" MODIFIED="1581960314115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$12_Tuples.coverage" NAME="12_Tuples Coverage Results" MODIFIED="1581949208527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$50_ValidatingAndParsingEmailAdresses.coverage" NAME="50_ValidatingAndParsingEmailAdresses Coverage Results" MODIFIED="1582305483451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$25_IntroductionToSets__1_.coverage" NAME="25_IntroductionToSets (1) Coverage Results" MODIFIED="1581985653231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$35_SetDifferenceOperation.coverage" NAME="35_SetDifferenceOperation Coverage Results" MODIFIED="1582046283828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$46_ModDivmod.coverage" NAME="46_ModDivmod Coverage Results" MODIFIED="1582243921897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonHackerRank$8_AlphabetRangoli.coverage" NAME="8_AlphabetRangoli Coverage Results" MODIFIED="1581942998099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
